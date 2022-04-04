@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sauvegarde recherche</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd44fe6d-03bf-4613-82e9-7dce86fe13c5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80cb43ff-c8cb-4b7c-9deb-b99c5bced46a</id>
+      <masked>false</masked>
+      <name>varNom</name>
+   </variable>
+</TestCaseEntity>

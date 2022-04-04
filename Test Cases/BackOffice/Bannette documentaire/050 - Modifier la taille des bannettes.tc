@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>050 - Modifier la taille des bannettes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29e26744-10a5-47f2-8463-37bec75c3f83</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f2e7b57-9e23-4649-ad15-b7d7cc71af9b</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

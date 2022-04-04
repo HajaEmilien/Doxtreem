@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>030 - Vider la corbeille (ma corbeille)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7b898c2-d617-4768-a0b7-363272e89658</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be5e0813-ecf4-4158-88ec-563c31a8ad8e</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

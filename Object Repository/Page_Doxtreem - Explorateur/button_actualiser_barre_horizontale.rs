@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_actualiser_barre_horizontale</name>
+   <tag></tag>
+   <elementGuidId>becf824a-a0d3-4811-bc96-779adc215e31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;explorer-shader&quot;]/div[4]/button[3]/md-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;explorer-shader&quot;]/div[4]/button[3]/md-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>refresh</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;explorer-shader&quot;]/div[4]/button[3]/md-icon</value>
+   </webElementProperties>
+</WebElementEntity>

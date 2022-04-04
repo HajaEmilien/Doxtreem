@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_retour</name>
+   <tag></tag>
+   <elementGuidId>e6e6213e-eeb2-4a68-b236-72b207162451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;brazil-backoffice-administration-editFilingPlan&quot;]/md-toolbar/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;brazil-backoffice-administration-editFilingPlan&quot;]/md-toolbar/div/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

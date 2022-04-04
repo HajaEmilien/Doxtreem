@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 005 -Actualiser un bloc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1383e830-30f3-442c-ad85-d74fdd41a480</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8baac13-470f-43b4-a215-995e554d960d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

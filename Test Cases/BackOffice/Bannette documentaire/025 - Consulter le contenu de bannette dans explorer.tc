@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>025 - Consulter le contenu de bannette dans explorer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>709ce033-bcf9-45be-a27b-9a57289a9a05</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19d5cf9b-8dcc-4a77-a4a9-b2094276593a</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

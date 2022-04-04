@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>050 - Lancer une recherche sauvegardée</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6abd582d-1669-43b8-a372-13812bffe634</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cde7f9a0-142f-47c8-a11f-0deea743c465</id>
+      <masked>false</masked>
+      <name>nom_recherche</name>
+   </variable>
+</TestCaseEntity>

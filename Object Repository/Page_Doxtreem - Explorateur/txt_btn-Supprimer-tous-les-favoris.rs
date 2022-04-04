@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_btn-Supprimer-tous-les-favoris</name>
+   <tag></tag>
+   <elementGuidId>7e3fc27b-e39e-48fd-afe3-600847195098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[starts-with(@id,'menu_container_')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[starts-with(@id,'menu_container_')]</value>
+   </webElementProperties>
+</WebElementEntity>

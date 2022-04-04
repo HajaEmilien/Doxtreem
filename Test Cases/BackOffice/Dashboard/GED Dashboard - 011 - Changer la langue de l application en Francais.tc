@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 011 - Changer la langue de l application en Francais</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25ea4333-8893-40b9-bbee-6aaa0214b490</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03da0b1f-049d-469a-b195-6d15146c7ea3</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

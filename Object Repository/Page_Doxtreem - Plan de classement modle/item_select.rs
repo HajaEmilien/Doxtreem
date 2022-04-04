@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_select</name>
+   <tag></tag>
+   <elementGuidId>29d1eb24-2245-405c-ad2c-5600d132cdac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[${index}]/md-select-menu/md-content/md-option[${iter}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[${index}]/md-select-menu/md-content/md-option[${iter}]</value>
+   </webElementProperties>
+</WebElementEntity>

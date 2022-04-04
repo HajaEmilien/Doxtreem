@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tag_e2e</name>
+   <tag></tag>
+   <elementGuidId>895f7d4e-ef7f-4cbc-9d19-9bdcf9b47a1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[starts-with(@id,&quot;ul-&quot;)]/li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[starts-with(@id,'md-option-')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[starts-with(@id,&quot;ul-&quot;)]/li</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 020 - Modifier ordre de rangement des blocs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ee56e15-6167-48f2-8585-8547fa659eb6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0935364b-7eae-4094-bec5-aad49ea31e3f</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

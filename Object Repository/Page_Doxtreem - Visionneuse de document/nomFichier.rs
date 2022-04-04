@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nomFichier</name>
+   <tag></tag>
+   <elementGuidId>8c021f33-bccd-4b04-94cd-84d11aad5e7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;breadcrumb-directive&quot;]/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;breadcrumb-directive&quot;]/div[4]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

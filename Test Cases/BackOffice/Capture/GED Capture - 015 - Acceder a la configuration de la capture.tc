@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Capture - 015 - Acceder a la configuration de la capture</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc37c34c-904b-4957-9020-92220943fb3f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5b5f7ff-49ee-4674-832c-cc2004b16519</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

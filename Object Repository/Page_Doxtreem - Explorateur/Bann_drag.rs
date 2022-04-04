@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bann_drag</name>
+   <tag></tag>
+   <elementGuidId>e01751b2-2142-40ac-ba4c-11cb3e33920f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>utilisateur_droitsAsupprimer</name>
+   <tag></tag>
+   <elementGuidId>6c834842-138f-4485-bbbd-ec5d077954e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;dialogContent_casefile-action-dialog-set-acl&quot;]/rights-management/div/div[2]/div[${index}]/div[1]/div[1]/div[1]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;dialogContent_casefile-action-dialog-set-acl&quot;]/rights-management/div/div[2]/div[${pos}]/div[1]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;dialogContent_casefile-action-dialog-set-acl&quot;]/rights-management/div/div[2]/div[${pos}]/div[1]/div[1]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>

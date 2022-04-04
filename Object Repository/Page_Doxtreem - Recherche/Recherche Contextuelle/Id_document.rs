@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Id_document</name>
+   <tag></tag>
+   <elementGuidId>14109972-40e2-44a9-a09e-a4b69d7441a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[starts-with(@id,&quot;tab-content-&quot;)]/div/div/div[2]/div[2]/div[3]/div/div[2]/div[1]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

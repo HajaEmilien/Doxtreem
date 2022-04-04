@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_nomRole</name>
+   <tag></tag>
+   <elementGuidId>23131baa-1324-4c02-bee5-8dd6f1ea25be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type = 'text' and starts-with(@id, 'mat-input-') and @aria-required = 'true']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer/div/mat-action-list/mat-form-field/div/div[1]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer/div/mat-action-list/mat-form-field/div/div[1]/div[4]/input</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-input-0&quot;]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-toolbar/mat-form-field/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

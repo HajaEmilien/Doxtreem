@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>id_cible</name>
+   <tag></tag>
+   <elementGuidId>c858bf1c-f801-4eec-8ae2-9a70e772cd38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[${index}]/section[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[${index}]/section[3]</value>
+   </webElementProperties>
+</WebElementEntity>

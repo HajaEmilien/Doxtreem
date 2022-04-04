@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Accéder a l administration de la validation du sort final</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c12660f-b0ab-43dc-b5a2-8161749671f1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>755ca2bf-2ba9-493d-9c88-0fac5b0906c9</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

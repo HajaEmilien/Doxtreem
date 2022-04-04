@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 - Acceder a Administration technique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ac5aa2-cb4b-42ee-a66c-bc8e251c0f60</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95e6f0eb-5d2f-46ea-b422-b1e08553c49d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

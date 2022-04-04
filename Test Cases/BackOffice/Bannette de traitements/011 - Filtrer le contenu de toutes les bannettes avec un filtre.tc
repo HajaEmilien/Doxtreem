@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011 - Filtrer le contenu de toutes les bannettes avec un filtre</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a618c5bf-8f25-4a15-b1b0-1a7d2cc98dc4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 010 - Changer la langue de l application en Anglais</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91667f27-7017-48fc-b04b-3cae4736d649</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3cfc9b1-e92a-4244-9854-ad7e7c685655</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

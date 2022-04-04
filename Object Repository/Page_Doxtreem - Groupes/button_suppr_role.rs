@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_suppr_role</name>
+   <tag></tag>
+   <elementGuidId>4c3b601a-ad0d-4bdb-8b91-1ea6fd25ed77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer/div/mat-action-list/mat-list-item[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer/div/mat-action-list/mat-list-item[2]/div/button</value>
+   </webElementProperties>
+</WebElementEntity>

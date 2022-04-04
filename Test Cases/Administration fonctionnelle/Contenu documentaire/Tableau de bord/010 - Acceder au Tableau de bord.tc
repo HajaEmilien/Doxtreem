@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Acceder au Tableau de bord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b95b75b5-b2eb-4dd3-95ed-ddb7183f1ce7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e60c72cd-8a3d-4442-8fd8-b42e18a77f90</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Popup_CreerGroup</name>
+   <tag></tag>
+   <elementGuidId>c61be92c-205c-42cc-a802-b22b63c00a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-group-dialog/section/section/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-group-dialog/section/section/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>totalPage</name>
+   <tag></tag>
+   <elementGuidId>7df3e5cb-0c26-486d-9b97-b9fa10091d0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;document-viewer-content&quot;]/div[1]/div[2]/div[1]/div[1]/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;document-viewer-content&quot;]/div[1]/div[2]/div[1]/div[1]/div[2]/div/div[2]/span</value>
+   </webElementProperties>
+</WebElementEntity>

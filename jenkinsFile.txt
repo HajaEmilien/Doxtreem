@@ -1,0 +1,50 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+            }
+        }
+        stage('Browsers Test') {
+            steps {
+                parallel(
+                    Firefox: {
+                        echo 'TestSuite : Connexion'
+                        bat label: '', script: 'C:\\Users\\svcjenkins\\Downloads\\Katalon_Studio_Windows_64-6.2.1\\katalon -noSplash -runMode=console -projectPath="C:\\Users\\svcjenkins\\.jenkins\\workspace\\Doxtreem-e2e_master\\Doxtreem.prj" -retry=0 -retryFailedTestCases=false -testSuitePath="Test Suites\\Connexion" -executionProfile="default" -browserType="Firefox" -apiKey="03c3574c-ebf7-4f3a-9be0-14d0fee34cc8" -reportFolder="C:\\Users\\svcjenkins\\Katalon Studio\\Doxtreem\\Reports" -reportFileName="report"'
+                    },
+                    Edge: {
+                        echo 'TestSuite : Connexion'
+                        bat label: '', script: 'C:\\Users\\svcjenkins\\Downloads\\Katalon_Studio_Windows_64-6.2.1\\katalon -noSplash -runMode=console -projectPath="C:\\Users\\svcjenkins\\.jenkins\\workspace\\Doxtreem-e2e_master\\Doxtreem.prj" -retry=0 -retryFailedTestCases=false -testSuitePath="Test Suites\\Connexion" -executionProfile="default" -browserType="Edge" -apiKey="03c3574c-ebf7-4f3a-9be0-14d0fee34cc8" -reportFolder="C:\\Users\\svcjenkins\\Katalon Studio\\Doxtreem\\Reports" -reportFileName="report"'
+                    }
+                )
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying...'
+            }
+        }
+    }
+	post {
+        always {
+            echo 'End of pipeline'
+            bat label: '', script: 'cd C:\\Users\\svcjenkins\\Downloads'
+            bat label: '', script: 'cd C:\\Users\\svcjenkins\\Downloads & java -jar katalon-report-uploader-0.0.5.jar --projectId=42043 --path="C:\\Users\\svcjenkins\\Katalon Studio\\Doxtreem\\Reports" --email=svcjenkins@numen.mg --password=03c3574c-ebf7-4f3a-9be0-14d0fee34cc8 --type=katalon'
+            cleanWs()
+        }
+        success {
+            echo 'Success'
+        }
+        failure {
+            echo 'Failure'
+        }
+        unstable {
+            echo 'Unstable'
+        }
+        changed {
+            echo "Pipeline's state has changed"
+            echo 'Success -> Failure / Failure -> Success'
+        }
+    }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 -Acceder Ecran de la Corbeille</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bb562f7-795e-4273-9e0f-cc025077871f</testCaseGuid>
+</TestCaseEntity>

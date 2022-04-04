@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>025 - Restaurer un dossier (ma corbeille)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0070dd78-fa3f-4baf-b7ab-2369a50dd498</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51c70353-24f2-47ea-bd61-b37d37e815d3</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

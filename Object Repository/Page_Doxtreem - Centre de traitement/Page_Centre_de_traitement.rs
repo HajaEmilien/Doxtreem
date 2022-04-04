@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Page_Centre_de_traitement</name>
+   <tag></tag>
+   <elementGuidId>3bffcfcb-20df-4965-84d3-4490cd3348d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;left-navbar&quot;]/ul/div[6]/a/md-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;left-navbar&quot;]/ul/div[6]/a/md-icon</value>
+   </webElementProperties>
+</WebElementEntity>

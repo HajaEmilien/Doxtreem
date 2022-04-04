@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_suppr_groupe</name>
+   <tag></tag>
+   <elementGuidId>7d7a6997-74e9-4c8c-b73c-e6fb8ccd2132</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;usertable&quot;]/mat-row[1]/mat-cell[5]/button[${index}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;usertable&quot;]/mat-row[1]/mat-cell[4]/button[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;usertable&quot;]/mat-row[1]/mat-cell[4]/button[${index}]</value>
+   </webElementProperties>
+</WebElementEntity>

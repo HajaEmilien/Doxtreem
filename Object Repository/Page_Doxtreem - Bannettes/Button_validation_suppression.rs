@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_validation_suppression</name>
+   <tag></tag>
+   <elementGuidId>5b9329fe-b0d0-4004-908b-2a2bf266ee67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[${index}]/md-dialog/form/md-dialog-actions[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[${index}]/md-dialog/form/md-dialog-actions[2]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

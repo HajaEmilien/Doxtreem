@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Titre_Bannette</name>
+   <tag></tag>
+   <elementGuidId>aa3c7615-4476-4dab-8ec8-aa50307b0d6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#inbox-title-E2E-Bannette</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'inbox-title-${bannette}']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id=&quot;inbox-title-${bannette}&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inbox-title-${bannette}</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>012 - Ajouter un document aux favoris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6d32b77-1b8d-46ef-a670-c9f9a7b78c80</testCaseGuid>
+</TestCaseEntity>

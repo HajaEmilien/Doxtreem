@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>070 - Modification des droits pour une bannette - Ajout nouvel utilisateur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a0c8c8e-aecb-4f04-8bb1-858996e290fe</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>fd76dfc8-6c3c-47ed-8943-8f14eec875de</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>017 - Supprimer tous les documents d-un dossier des favoris</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6231435e-bbb6-4868-bfb4-d0ffe9c7eb83</testCaseGuid>
+</TestCaseEntity>

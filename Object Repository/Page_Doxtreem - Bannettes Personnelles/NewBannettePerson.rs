@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NewBannettePerson</name>
+   <tag></tag>
+   <elementGuidId>3d74c7b3-3701-42d7-b8ce-42b41c37c14e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[11]/md-dialog//md-icon[@aria-label='mdi:inbox']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[10]/md-dialog/md-dialog-content/div/div[1]/div/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[10]/md-dialog/md-dialog-content/div/div[1]/div/div[1]/div</value>
+   </webElementProperties>
+</WebElementEntity>

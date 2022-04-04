@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bttn_infos</name>
+   <tag></tag>
+   <elementGuidId>c550c81f-a5f7-4ebc-ba80-2bca205b5fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;template-module&quot;]/div/div[3]/div[2]/div/div[1]/div[2]/div[1]/div/div/div/div/div/md-card/div[2]/button[1]/md-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;template-module&quot;]/div/div[3]/div[2]/div/div[1]/div[2]/div[1]/div/div/div/div/div/md-card/div[2]/button[1]/md-icon</value>
+   </webElementProperties>
+</WebElementEntity>

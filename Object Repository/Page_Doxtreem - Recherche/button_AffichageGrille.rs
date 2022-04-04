@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AffichageGrille</name>
+   <tag></tag>
+   <elementGuidId>088bde96-ef50-468e-b7bf-b0a94be9ee63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;search&quot;]/div[2]/md-toolbar/div/button[5]/md-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;search&quot;]/div/md-toolbar/div/button[count(. | //*[@aria-label = 'GridView']) = count(//*[@aria-label = 'GridView'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;search&quot;]/div/md-toolbar/div/button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>GridView</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_enregistrer</name>
+   <tag></tag>
+   <elementGuidId>9ec12c3a-6fe9-489d-927a-bf9909b8d47a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-toolbar/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-toolbar/button</value>
+   </webElementProperties>
+</WebElementEntity>

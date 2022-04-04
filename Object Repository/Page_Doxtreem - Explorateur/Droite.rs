@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Droite</name>
+   <tag></tag>
+   <elementGuidId>48f0a0e2-82fd-46f7-93d6-b6fa04de8a9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contentInboxExplorerRight&quot;]/div[1]/div/div[1]/div[2]/md-tabs/md-tabs-content-wrapper//md-tab-content[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contentInboxExplorerRight&quot;]/div[1]/div/div[1]/div[2]/md-tabs/md-tabs-content-wrapper//md-tab-content[1]</value>
+   </webElementProperties>
+</WebElementEntity>

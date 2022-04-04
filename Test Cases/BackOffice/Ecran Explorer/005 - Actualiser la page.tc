@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 - Actualiser la page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33a900b2-b4ad-48c8-b579-3f95268b157e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0036d55b-9272-4930-9e6f-a56115646e2d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

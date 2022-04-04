@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ettendu_icon</name>
+   <tag></tag>
+   <elementGuidId>4ba3d1d7-a48b-4130-9c99-5095e1df58ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[${index}]/section[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inboxes-global-container&quot;]/md-content/inbox-view[${index}]/section[3]</value>
+   </webElementProperties>
+</WebElementEntity>

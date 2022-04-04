@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filtre-bannette</name>
+   <tag></tag>
+   <elementGuidId>bd7edcf5-3753-4692-a24b-d6a8ef3243e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;${id}&quot;]/section[1]/section[3]/button[2]/md-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;${id}&quot;]/section[1]/section[3]/button[2]/md-icon</value>
+   </webElementProperties>
+</WebElementEntity>

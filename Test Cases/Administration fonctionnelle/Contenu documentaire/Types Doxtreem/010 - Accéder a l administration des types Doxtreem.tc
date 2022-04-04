@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Accéder a l administration des types Doxtreem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>064bb577-d918-44be-b435-c62a692dcf0c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c47c8d2d-a533-4ce6-bee8-374e5ee0fdf6</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

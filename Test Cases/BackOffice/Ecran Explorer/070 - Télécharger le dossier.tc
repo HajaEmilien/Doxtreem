@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>070 - Télécharger le dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc221f15-e102-4910-96dd-b571a748b45c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82299d2d-c99d-4a6c-bf13-92b58ea7214d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

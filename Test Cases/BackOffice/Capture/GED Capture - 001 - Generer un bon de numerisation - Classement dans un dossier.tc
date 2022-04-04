@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Capture - 001 - Generer un bon de numerisation - Classement dans un dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45ed3c18-e854-4026-92f5-ba5459cb4444</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>032b30d3-ddb7-4951-8add-16be9faf9b7d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

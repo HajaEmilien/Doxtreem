@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>070 - Mon compte, A propos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afa26983-a9aa-43ce-b2b4-70d7a3312a60</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>989f8896-82ad-4ea9-9ded-426f2eaabc30</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

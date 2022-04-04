@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Acceder à gestion des bannettes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5fc2e18-47da-4912-886b-51923d61caed</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2sae/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>ce0b64f2-c6e5-4c68-a8c9-c2b2610b4067</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

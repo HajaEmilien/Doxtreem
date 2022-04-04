@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newRole</name>
+   <tag></tag>
+   <elementGuidId>75a5643b-9862-4d13-aa32-b34d7152cb6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-toolbar/mat-form-field/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-toolbar/mat-form-field/div/div[1]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

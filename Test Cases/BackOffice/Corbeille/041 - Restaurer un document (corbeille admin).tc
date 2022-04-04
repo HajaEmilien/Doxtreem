@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>041 - Restaurer un document (corbeille admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0760c958-89a0-46fc-a167-6d62805bec1e</testCaseGuid>
+</TestCaseEntity>

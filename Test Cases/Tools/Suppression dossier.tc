@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suppression dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38b2a15e-fd7d-46e7-b495-96459111d139</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e538d336-78b0-4239-bb76-61ec1676fe43</id>
+      <masked>false</masked>
+      <name>Dossier</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>046 - Restaurer un dossier (corbeille admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d7a359e-c886-4301-afb8-cf44b4de910d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>933c95cc-b2f7-4004-b2c3-1d0fb633ead2</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

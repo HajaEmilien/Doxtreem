@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 - Actualiser une bannette</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>001a2532-2f3e-49fb-9d2a-ff82c904112a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>624515c4-4839-4d5c-b244-f2bd01626f4e</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

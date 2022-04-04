@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bouton-ajout-nouvelle-etiquette</name>
+   <tag></tag>
+   <elementGuidId>58dacbb9-97d4-4ad4-b9e5-337ea88be4de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;edit-inbox-tab-color-ged-container&quot;]/section/button/md-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;edit-inbox-tab-color-ged-container&quot;]/section/button/md-icon</value>
+   </webElementProperties>
+</WebElementEntity>

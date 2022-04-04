@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 - Accéder à l écran Administration des datarooms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bf86af7-934f-47bf-8b8f-d93bb7563fdd</testCaseGuid>
+</TestCaseEntity>

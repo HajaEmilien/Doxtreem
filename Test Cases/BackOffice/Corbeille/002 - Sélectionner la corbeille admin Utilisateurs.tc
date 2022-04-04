@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002 - Sélectionner la corbeille admin Utilisateurs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e7611e0-c636-421e-b00a-5e256e9c68c6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abcaedb3-739b-464e-abfc-8ee08296bd81</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 030 - Réinitialiser le tableau de bord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4052bf4-eace-4d3b-9277-9ffbafa4bb01</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d1998b7-0bd9-4318-ab2c-7aa48a110dfb</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

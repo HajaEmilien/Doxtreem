@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_sauvegarde_infos</name>
+   <tag></tag>
+   <elementGuidId>b927d2ff-9666-4424-ba8b-4dd82708c8a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-user-dialog/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-user-dialog/div[2]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

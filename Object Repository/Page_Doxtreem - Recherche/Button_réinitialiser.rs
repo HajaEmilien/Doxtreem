@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_réinitialiser</name>
+   <tag></tag>
+   <elementGuidId>b179fe54-400a-40a9-9e41-682c87d26d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[starts-with(@id,&quot;tab-content-&quot;)]/div/md-dialog-actions//button[@id='advanced-tab-reset']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'md-button md-default-theme md-ink-ripple' and (text() = 'Réinitialiser' or . = 'Réinitialiser')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-button md-default-theme md-ink-ripple</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Réinitialiser</value>
+   </webElementProperties>
+</WebElementEntity>

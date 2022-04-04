@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_oui</name>
+   <tag></tag>
+   <elementGuidId>d3e5c2e1-61c9-4bbc-bf6c-ebdcf4f42ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[${index}]/md-dialog/md-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[${index}]/md-dialog/md-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

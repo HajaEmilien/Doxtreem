@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creer un utilisateur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>979902fe-7fd1-464d-885e-d378226ab5ac</testCaseGuid>
+   <variable>
+      <defaultValue>'E2E_User'</defaultValue>
+      <description></description>
+      <id>f4039867-8814-45f2-92a6-fa8a06c8acfd</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+</TestCaseEntity>

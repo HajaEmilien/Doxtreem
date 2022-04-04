@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_trouver</name>
+   <tag></tag>
+   <elementGuidId>6ffaf4aa-3136-4197-ac9f-17256fd6aa12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;${index}&quot;]/li//md-autocomplete-parent-scope/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;${index}&quot;]/li//md-autocomplete-parent-scope/span/span</value>
+   </webElementProperties>
+</WebElementEntity>

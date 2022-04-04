@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_selectionner</name>
+   <tag></tag>
+   <elementGuidId>ce667516-3330-48ce-8034-79bbf4948e10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;search&quot;]/div[2]/md-toolbar/div/button[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;search&quot;]/div[2]/md-toolbar/div/button[${index}]</value>
+   </webElementProperties>
+</WebElementEntity>

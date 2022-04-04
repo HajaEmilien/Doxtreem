@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 - Rechercher un utilisateur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc662363-8174-463c-8cbb-f85cdd86f59e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tag-vue-documentaire</name>
+   <tag></tag>
+   <elementGuidId>ecbd8778-3b79-49bd-8f35-49786c95251f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[starts-with(@id,&quot;_md-chips-wrapper-&quot;)]/md-chip[${position}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[starts-with(@id,&quot;_md-chips-wrapper-&quot;)]/md-chip[${position}]</value>
+   </webElementProperties>
+</WebElementEntity>

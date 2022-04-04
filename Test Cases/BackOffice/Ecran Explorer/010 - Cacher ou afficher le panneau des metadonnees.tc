@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Cacher ou afficher le panneau des metadonnees</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae95e3c1-31fc-4ab6-91da-59d22e5af548</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efc07454-a26f-460e-8db7-fb0af1bd0fc8</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

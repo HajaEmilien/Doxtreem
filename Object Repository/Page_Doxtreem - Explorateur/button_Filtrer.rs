@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filtrer</name>
+   <tag></tag>
+   <elementGuidId>82fb283e-30fc-4cf8-bfe8-ad083aca2fdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'md-raised md-primary md-button md-default-theme md-ink-ripple' and @type = 'button' and (text() = 'Filtrer' or . = 'Filtrer')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[starts-with(@id,&quot;tab-content-&quot;)]/div/md-content/inbox-view[2]//md-icon[@aria-label='mdi:filter-outline']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-raised md-primary md-button md-default-theme md-ink-ripple</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filtrer</value>
+   </webElementProperties>
+</WebElementEntity>

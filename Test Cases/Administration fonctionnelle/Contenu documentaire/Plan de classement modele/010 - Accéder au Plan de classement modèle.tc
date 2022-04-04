@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Accéder au Plan de classement modèle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2457e7c1-8022-494d-9662-9abb103dec9f</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>dab1ef31-ac0d-408f-9a5a-e78752e0f4f0</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

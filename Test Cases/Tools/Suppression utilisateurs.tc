@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suppression utilisateurs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8669b6f-5899-4200-8ed6-72fbdc5dba36</testCaseGuid>
+   <variable>
+      <defaultValue>'E2E_User'</defaultValue>
+      <description></description>
+      <id>ab91b8a1-950a-4c24-81ac-3945f9545614</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+</TestCaseEntity>

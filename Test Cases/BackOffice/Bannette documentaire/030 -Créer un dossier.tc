@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>030 -Créer un dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77eaf70f-8a98-47e6-9e69-2f021b50afd4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe3cdbea-8bd1-4839-a32c-b73684e201c5</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d70af9c-1603-4922-836f-c4e76e28b218</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66264437-44db-423c-bdb9-775ef1536879</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

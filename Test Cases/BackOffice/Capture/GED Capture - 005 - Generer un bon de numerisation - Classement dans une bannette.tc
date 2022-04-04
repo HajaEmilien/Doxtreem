@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Capture - 005 - Generer un bon de numerisation - Classement dans une bannette</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05051f49-e45e-44fe-88d3-5aaa83ef2591</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>f47fcd25-4979-452b-92d8-6300e4cdeafa</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

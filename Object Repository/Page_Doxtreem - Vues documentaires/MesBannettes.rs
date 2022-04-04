@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MesBannettes</name>
+   <tag></tag>
+   <elementGuidId>d0772378-0572-4355-9674-0652bf09fa47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inboxes-tags-container&quot;]/md-chips/md-chips-wrap/md-chip[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inboxes-tags-container&quot;]/md-chips/md-chips-wrap/md-chip[${index}]</value>
+   </webElementProperties>
+</WebElementEntity>

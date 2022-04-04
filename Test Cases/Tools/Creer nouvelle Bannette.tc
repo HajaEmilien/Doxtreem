@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creer nouvelle Bannette</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>febc71d9-78d5-4169-a54b-b3003b3a5e0e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c0bbfd3-6f20-4912-9d1d-b703e526ef84</id>
+      <masked>false</masked>
+      <name>Bannette</name>
+   </variable>
+</TestCaseEntity>

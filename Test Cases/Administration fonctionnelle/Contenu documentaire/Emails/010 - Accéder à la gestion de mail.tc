@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Accéder à la gestion de mail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73e9e9f7-b853-449c-a534-06ca6a4be521</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>9d52209a-8f3b-4583-94f2-d6e425bc3246</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Capture</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>60</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f21b1408-3fa5-4dcf-b6a6-5c27b673d5b7</testSuiteGuid>
+   <testCaseLink>
+      <guid>9b9d8340-665c-4762-9b58-d03619bd1594</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Capture/GED Capture - 001 - Generer un bon de numerisation - Classement dans un dossier</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>032b30d3-ddb7-4951-8add-16be9faf9b7d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>aec7c29f-206a-416c-9ecd-fc6b6cbfd878</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Capture/GED Capture - 005 - Generer un bon de numerisation - Classement dans une bannette</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f47fcd25-4979-452b-92d8-6300e4cdeafa</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d44976f8-bed2-42fa-838f-8e42adb22ee3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Capture/GED Capture - 015 - Acceder a la configuration de la capture</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a5b5f7ff-49ee-4674-832c-cc2004b16519</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

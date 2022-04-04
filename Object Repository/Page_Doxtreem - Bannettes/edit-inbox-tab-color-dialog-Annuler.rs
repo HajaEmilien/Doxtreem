@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit-inbox-tab-color-dialog-Annuler</name>
+   <tag></tag>
+   <elementGuidId>bfb54b90-e106-4081-a021-1397d492e1c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;edit-inbox-tab-color-dialog&quot;]/form/md-dialog-actions/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;edit-inbox-tab-color-dialog&quot;]/form/md-dialog-actions/button</value>
+   </webElementProperties>
+</WebElementEntity>

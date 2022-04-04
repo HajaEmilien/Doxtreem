@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit-inbox-tab-color-dialog-Sauvegarder</name>
+   <tag></tag>
+   <elementGuidId>657101b9-4ca6-4d9f-9851-e740dc5dee6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;edit-inbox-tab-color-dialog&quot;]/form/md-dialog-actions/md-button-circular-progress/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;edit-inbox-tab-color-dialog&quot;]/form/md-dialog-actions/md-button-circular-progress/button</value>
+   </webElementProperties>
+</WebElementEntity>

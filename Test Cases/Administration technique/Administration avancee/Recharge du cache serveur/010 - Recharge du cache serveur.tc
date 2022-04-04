@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Recharge du cache serveur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33b8c284-3053-472e-8826-9900b67fd648</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Supprimer</name>
+   <tag></tag>
+   <elementGuidId>2600dbff-5185-415b-a954-772363e6624f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[starts-with(@id,&quot;mat-dialog-&quot;)]/mat-dialog-actions/button[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[2]/div/mat-dialog-container/mat-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[2]/div/mat-dialog-container/mat-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

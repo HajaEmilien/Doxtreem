@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Liste_role</name>
+   <tag></tag>
+   <elementGuidId>f927b707-cc0b-4c85-9a2a-46124ce4e3a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-user-dialog/div[1]/mat-tab-group/div/mat-tab-body[3]/div/mat-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[2]/div/mat-dialog-container/app-is-user-dialog/div[1]/mat-tab-group/div/mat-tab-body[3]/div/mat-list</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Acceder a la page Autorisations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c1de4ad-b893-434f-b008-39b0bf56813a</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>09c9b84b-7402-45ab-a67c-8b3aadb031e5</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

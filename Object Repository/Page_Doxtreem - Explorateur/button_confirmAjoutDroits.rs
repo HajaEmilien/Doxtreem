@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_confirmAjoutDroits</name>
+   <tag></tag>
+   <elementGuidId>b98b233e-8648-4c94-af08-51db2bd94a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[${index}]/md-dialog/md-dialog-actions/button[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[${num}]/md-dialog/md-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VALIDER</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[${num}]/md-dialog/md-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

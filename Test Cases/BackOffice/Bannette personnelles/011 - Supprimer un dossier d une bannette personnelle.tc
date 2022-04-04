@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011 - Supprimer un dossier d une bannette personnelle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5c7df2-4cb2-4474-a1a6-36585f4ae7f7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011 - Modifier une métadonnée</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1f60a6d-0747-4f32-b499-00e7b26fdbea</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e191140-e330-457a-812a-a7b0a0ba5fc6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>008 - Déplier un dossier pour afficher son contenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>394cec8b-20b4-409a-8b53-5c3abb71ee3c</testCaseGuid>
+</TestCaseEntity>

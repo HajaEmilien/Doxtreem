@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>060 - Supprimer un dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>438cad35-47bd-4ad4-a6ef-5ff85be6fe28</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd4c120d-14e8-458a-b82c-fbca1badca1a</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

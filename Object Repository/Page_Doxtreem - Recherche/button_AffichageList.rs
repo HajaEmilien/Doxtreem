@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AffichageList</name>
+   <tag></tag>
+   <elementGuidId>b428da7b-99f3-4947-8d54-6bece45c65bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;search&quot;]/div[2]/md-toolbar/div/button[${position}]/md-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;search&quot;]/div/md-toolbar/div/button[count(. | //*[@aria-label = 'ListView']) = count(//*[@aria-label = 'ListView'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;search&quot;]/div/md-toolbar/div/button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>ListView</value>
+   </webElementProperties>
+</WebElementEntity>

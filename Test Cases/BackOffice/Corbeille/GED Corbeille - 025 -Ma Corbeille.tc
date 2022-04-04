@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Corbeille - 025 -Ma Corbeille</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc15083a-92e0-4990-a945-556b198decdb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de0b9edf-db47-43aa-8d71-74fb190970da</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

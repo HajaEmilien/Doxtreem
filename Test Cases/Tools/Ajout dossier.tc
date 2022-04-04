@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ajout dossier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ed165b6-768f-44cf-a192-47f54f05367d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc86e0aa-c7e6-4abc-813e-6200b8b35efb</id>
+      <masked>false</masked>
+      <name>dossier</name>
+   </variable>
+</TestCaseEntity>

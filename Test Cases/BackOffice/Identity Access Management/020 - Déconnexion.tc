@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>020 - Déconnexion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efdcbb43-1148-4410-a69c-34487ddbeca9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b5dcbed-b352-4f38-81e6-cec157a9ab8b</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

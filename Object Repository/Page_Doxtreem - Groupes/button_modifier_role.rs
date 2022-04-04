@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_modifier_role</name>
+   <tag></tag>
+   <elementGuidId>b0869cd6-fce6-445c-a280-8dad43101ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;usertable&quot;]/mat-row/mat-cell[5]/button[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;usertable&quot;]/mat-row[1]/mat-cell[4]/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;usertable&quot;]/mat-row[1]/mat-cell[4]/button[3]</value>
+   </webElementProperties>
+</WebElementEntity>

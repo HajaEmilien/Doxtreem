@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 - Acceder a la page des bannettes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5781b12-2316-4799-9c27-be94087cd6c7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55bab09d-4c8a-438b-8ab7-94571b5173cc</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4969f961-b24e-4f71-8e75-83f1fe8a06e2</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>680e8530-b1de-4f5a-a119-88cbede1941e</id>
+      <masked>false</masked>
+      <name>PASSWORD</name>
+   </variable>
+</TestCaseEntity>

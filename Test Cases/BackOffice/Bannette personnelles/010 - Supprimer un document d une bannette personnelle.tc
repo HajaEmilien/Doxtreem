@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010 - Supprimer un document d une bannette personnelle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa78c06e-a102-4629-a33c-a651f4825d47</testCaseGuid>
+</TestCaseEntity>

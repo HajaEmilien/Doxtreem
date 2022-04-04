@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001 - Accéder a l administration des règles du sort final</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccaaa1ec-fdaa-4815-acee-783252422c44</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b98344df-1d0e-47ce-919a-a886f4498c8c</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

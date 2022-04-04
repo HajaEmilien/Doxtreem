@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CaseHabilitation</name>
+   <tag></tag>
+   <elementGuidId>a90d80d5-b916-4180-b40b-923c01000846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-tab-group/div/mat-tab-body/div/mat-tree/mat-nested-tree-node[${index}]/div[1]/div/div/mat-checkbox/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-sg-habilitations/div/mat-drawer-container/mat-drawer-content/div/mat-tab-group/div/mat-tab-body/div/mat-tree/mat-nested-tree-node[${index}]/div[1]/div/div/mat-checkbox/label/div</value>
+   </webElementProperties>
+</WebElementEntity>

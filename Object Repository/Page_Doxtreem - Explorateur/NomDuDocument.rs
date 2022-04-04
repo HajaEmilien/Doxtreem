@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NomDuDocument</name>
+   <tag></tag>
+   <elementGuidId>e01b4559-bf38-4bee-9574-f44af2bf2477</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;upload-document-content-information-document&quot;]/md-content/div/section/div[1]/div/div/div/div[1]/md-input-container/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;upload-document-content-information-document&quot;]/md-content/div/section/div[1]/div/div/div/div[1]/md-input-container/input</value>
+   </webElementProperties>
+</WebElementEntity>

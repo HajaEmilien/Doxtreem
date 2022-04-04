@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GED Dashboard - 035 - Supprimer le widget</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c95b5c74-b60a-44c5-ae22-b0bef89b61c5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f826e32-298f-4555-a81c-41f811f56130</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>110 - Supprimer une bannette</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55a1c909-a276-4f37-ab89-4d8e3deac4cb</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>90b0592a-3c56-4acf-9ead-b3a8cef94721</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

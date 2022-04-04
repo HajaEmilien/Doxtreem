@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_documentImporté</name>
+   <tag></tag>
+   <elementGuidId>d0b53e33-c96d-4ee5-93c9-9e4df80963f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;inboxExplorerList&quot;]/div/div/md-menu/div[1]/div/div[1]/div[3]/div[1]/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;inboxExplorerList&quot;]/div/div/md-menu/div[1]/div/div[1]/div[3]/div[1]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;inboxExplorerList&quot;]/div/div/md-menu/div[1]/div/div[1]/div[3]/div[1]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

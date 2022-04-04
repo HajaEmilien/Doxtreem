@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Dashboard</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c264946e-9cde-4000-a059-a99f208d22da</testSuiteGuid>
+   <testCaseLink>
+      <guid>f11941e5-9e0c-45c7-b6b6-d95439a52cee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 001 -Acceder a la page dashboard</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7a958042-33d9-40cf-92eb-d5a012c1f0ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 005 -Actualiser un bloc</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f8baac13-470f-43b4-a215-995e554d960d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21fe2717-fb37-4011-8dd0-2f507726abd8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 010 - Changer la langue de l application en Anglais</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3cfc9b1-e92a-4244-9854-ad7e7c685655</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>05355df0-9b3d-4f0a-b6e4-5d612351d3cb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 011 - Changer la langue de l application en Francais</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>03da0b1f-049d-469a-b195-6d15146c7ea3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>beab2118-c499-4040-912c-5cc6f8ea3f94</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 020 - Modifier ordre de rangement des blocs</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0935364b-7eae-4094-bec5-aad49ea31e3f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>89238115-e2ba-46e0-8ae1-b80a1d381804</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 025 - Exporter des tableaux en CSV</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6d4b901d-5f38-4f41-a02d-07d2bb1a92d0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>43abfaad-6b79-40b8-b6a2-2ba7e47c7842</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 030 - Réinitialiser le tableau de bord</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0d1998b7-0bd9-4318-ab2c-7aa48a110dfb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4644f61a-3514-40c1-8229-775e18779f25</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BackOffice/Dashboard/GED Dashboard - 035 - Supprimer le widget</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3f826e32-298f-4555-a81c-41f811f56130</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

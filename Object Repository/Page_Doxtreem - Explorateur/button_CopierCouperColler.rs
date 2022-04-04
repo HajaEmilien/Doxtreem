@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CopierCouperColler</name>
+   <tag></tag>
+   <elementGuidId>52057e0e-b3f2-4990-b4ac-ee91ef353d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;explorer-shader&quot;]/div[4]/div[3]/div/div[2]/div/div/div/md-menu/button/md-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@aria-label = 'Couper/Copier/Coller']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Couper/Copier/Coller</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>topButton</value>
+   </webElementProperties>
+</WebElementEntity>

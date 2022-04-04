@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creation dossier Modele</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8666a03d-47b3-4bef-96e7-c10f09cc2e42</testCaseGuid>
+   <variable>
+      <defaultValue>'https://doxtreem-uat2.numen.solutions/uat2gc/backOffice/inbox'</defaultValue>
+      <description></description>
+      <id>df183411-3839-41aa-8091-92fd66d4f3d9</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>
