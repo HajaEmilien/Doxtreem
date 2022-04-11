@@ -1,0 +1,19 @@
+name: CI
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.2
+    - name: Katalon Studio Github Action
+      uses: katalon-studio/katalon-studio-github-action@v2
+      with:
+          version: '7.5.5'
+          projectPath: 'https://github.com/HajaEmilien/Doxtreem/Doxtreem.prj'
+          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/Test Suite Complet" -apiKey=d694c910-22d7-4959-ace3-1e12343df240 --config -webui.autoUpdateDrivers=true'
