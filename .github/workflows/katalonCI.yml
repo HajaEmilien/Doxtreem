@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Katalon Studio Github Action
-      uses: C:/Users/EMRI/Documents/Katalon_Studio/Katalon_Studio_Engine_Windows_64-8.2.5/katalon-studio-github-action@v2
+      uses: katalon-studio/katalon-studio-github-action@v2
       with:
           version: '8.2.5'
           projectPath: 'https://github.com/HajaEmilien/Doxtreem/Doxtreem.prj'
